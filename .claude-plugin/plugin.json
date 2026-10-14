@@ -1,0 +1,6 @@
+{
+  "name": "boattrader",
+  "version": "1.0.0",
+  "description": "Search, compare, and research new and used boats for sale across the U.S. using live Boat Trader inventory, listings, and asking-price statistics.",
+  "author": { "name": "Boats Group", "url": "https://www.boattrader.com" }
+}

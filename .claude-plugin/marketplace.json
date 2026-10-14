@@ -1,0 +1,16 @@
+{
+  "name": "boattrader",
+  "owner": {
+    "name": "Boats Group"
+  },
+  "plugins": [
+    {
+      "name": "boattrader",
+      "source": "./",
+      "description": "Search, compare, and research boats for sale using live Boat Trader inventory."
+    }
+  ],
+  "metadata": {
+    "description": "Boat Trader plugin for Claude: live boat listings search and market research."
+  }
+}
