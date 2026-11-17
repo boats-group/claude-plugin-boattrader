@@ -18,7 +18,7 @@ Ask Claude things like:
 
 ## Data
 
-Search criteria you give Claude (boat type, budget, location and similar) are sent to the Boat Trader MCP server, which returns current listings. The plugin stores nothing itself and needs no API keys.
+Search criteria you give Claude (boat type, budget, location and similar) are sent to the Boat Trader MCP server, which returns current listings. The plugin stores nothing itself and needs no API keys. See the [Boats Group privacy policy](https://www.boatsgroup.com/privacy/).
 
 ## Install
 
@@ -36,3 +36,7 @@ claude --plugin-dir ./claude-plugin-boattrader
 ```
 
 **claude.ai / Cowork**: zip the repo contents and use Customize > Plugins > Add > Upload plugin, then connect the connector from the plugin's Connectors tab.
+
+## License
+
+[MIT](LICENSE)
